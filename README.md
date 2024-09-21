@@ -1,12 +1,14 @@
 # Ehentai Favor Migrate
 
+***using python version: 3.7***
+
 this is a project to migrate your favor item from e-hentai to exhentai
 
 (if you require like e-hentai -> e-hentai, you can modify the code to finish the goal)
 
 this project use **selenium** to simulate the whole process
 
-please replace the **yourAccount** and **yourPassword** string in the files
+please replace the **yourAccount** and **yourPassword** string in the files (getBookURL.py and AddFavorite.py)
 
 the sequence of running these scripts is:
 
