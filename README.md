@@ -14,7 +14,7 @@ getBookURL.py -> replaceURL.ipynb -> AddFavorite.py
 
 
 
-the result, the different type of books will be archived to different favorite folder in e-/xhentai
+As the result, the different type of books will be archived to different favorite folder in e-/xhentai
 
 | Tag       | favorites |
 | --------- | --------- |
