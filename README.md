@@ -1,4 +1,4 @@
-# Ehentai Favor Migrate
+# Ehentai Favor Migrate / E站收藏账号迁移
 
 ***using python version: 3.7***
 
@@ -31,3 +31,5 @@ As the result, the different type of books will be archived to different favorit
 | Misc      | favorite8 |
 
 you can modify this mapping in **favorMap.txt**
+
+该脚本使用selenium帮助您迁移您的E站收藏到目标账号的收藏夹中（表站->表站,里站->里站）
