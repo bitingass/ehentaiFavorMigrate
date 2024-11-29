@@ -32,4 +32,4 @@ As the result, the different type of books will be archived to different favorit
 
 you can modify this mapping in **favorMap.txt**
 
-该脚本使用selenium帮助您迁移您的E站收藏到目标账号的收藏夹中（表站->表站,里站->里站）
+该脚本使用selenium帮助您迁移您的E站收藏到目标账号的收藏夹中（表站->里站您也可以自行修改代码以实现表站->表站，里站->里站）
