@@ -1,4 +1,4 @@
-# Ehentai Favor Migrate / E站收藏账号迁移
+# Ehentai Favor Migrate / E站账号收藏迁移
 
 ***using python version: 3.7***
 
